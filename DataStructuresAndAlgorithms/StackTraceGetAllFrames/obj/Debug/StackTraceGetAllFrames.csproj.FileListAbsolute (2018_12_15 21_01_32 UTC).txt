@@ -1,0 +1,6 @@
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\StackTraceGetAllFrames\bin\Debug\StackTraceGetAllFrames.exe.config
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\StackTraceGetAllFrames\bin\Debug\StackTraceGetAllFrames.exe
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\StackTraceGetAllFrames\bin\Debug\StackTraceGetAllFrames.pdb
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\StackTraceGetAllFrames\obj\Debug\StackTraceGetAllFrames.csproj.CoreCompileInputs.cache
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\StackTraceGetAllFrames\obj\Debug\StackTraceGetAllFrames.exe
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\StackTraceGetAllFrames\obj\Debug\StackTraceGetAllFrames.pdb

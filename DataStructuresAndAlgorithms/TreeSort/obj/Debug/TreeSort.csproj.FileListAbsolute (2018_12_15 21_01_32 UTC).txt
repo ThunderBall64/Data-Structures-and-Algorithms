@@ -1,0 +1,6 @@
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\TreeSort\bin\Debug\TreeSort.exe.config
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\TreeSort\bin\Debug\TreeSort.exe
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\TreeSort\bin\Debug\TreeSort.pdb
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\TreeSort\obj\Debug\TreeSort.csproj.CoreCompileInputs.cache
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\TreeSort\obj\Debug\TreeSort.exe
+C:\Users\Billi\source\repos\DataStructuresAndAlgorithms\TreeSort\obj\Debug\TreeSort.pdb
